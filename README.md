@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/adarsh-kathriya-555750274/?originalSubdomain=in)**
 
-- 📄 Know about my experiences **[My Resume]([https://drive.google.com/file/d/1vYPooD3sKTknAR8Bq3-bW2-UvMkwjHZA/view?usp=sharing](https://drive.google.com/drive/my-drive))**<br><br><br>
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/10xgLOZLQMZ4B1WXJ7J6z8Gkqho4-jVnd/view?usp=drive_link)**
+<br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
