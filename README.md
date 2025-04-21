@@ -17,6 +17,12 @@
 </div>
 
 
+<h1 align="center"> 🏆 GitHub Trophies </h1>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kingadarsh&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
+</p>
+
 
 
 
