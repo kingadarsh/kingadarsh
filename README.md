@@ -131,7 +131,7 @@ Open to collaborations, internships, and interesting tech discussions!
 
 
 <div align="center">
-<h1>Projects</h1> 
+<h1> My Projects 🚀</h1> 
 <a href="https://taskgenielandingpage.onrender.com/" target="_blank">
 <img width="500" alt="Screenshot 2025-04-22 at 1 11 13 AM" src="https://github.com/user-attachments/assets/05ba532a-4504-43f8-ae12-15424bc2a5d5" />
 </a>
