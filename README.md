@@ -15,7 +15,7 @@
   <img src="https://streak-stats.demolab.com?user=kingadarsh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kingadarsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<br><br><br>
 
 <h1 align="center"> 🏆 GitHub Trophies </h1>
 
@@ -23,9 +23,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kingadarsh&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
 </p>
 
+<div align="center">
+  <h1 align="center"> 🎖️ Holopin Badges </h1>
+  <a href="https://holopin.io/@kingadarsh" target="_blank">
+    <img  height="290" src="https://holopin.me/kingadarsh" alt="Holopin badges of @kingadarsh" />
+  </a>
+</div>
 
 
 
+<br><br><br>
 <h1 align="center"> 💫 About Me</h1>
 
 ### 🌐 What I Do:
