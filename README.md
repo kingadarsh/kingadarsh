@@ -127,9 +127,14 @@ Open to collaborations, internships, and interesting tech discussions!
 
 <h1></h1>
 <div align="center">
-<img  height="550" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFlZWQxZGJoZ3ByaTJyNXAzbWh2ZWE0cXdibDRidW40YzExcGs1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6yyIrL4JczqfmFRHCl/giphy.gif"  />
+<img  height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFlZWQxZGJoZ3ByaTJyNXAzbWh2ZWE0cXdibDRidW40YzExcGs1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6yyIrL4JczqfmFRHCl/giphy.gif"  />
 </div>
+<!-- <br><br><br> -->
 
+<div align="center">
+<!-- <h1></h1> -->
+<img src="https://raw.githubusercontent.com/kingadarsh/kingadarsh/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 
