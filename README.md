@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kathriya</h1>
 <h3 align="center">Developer • Innovator • Tech Enthusiast • Entrepreneur </h3>
 <!-- ![Iron Man Explosion GIF by Xbox](https://github.com/user-attachments/assets/303b7cfe-62a2-4b68-a529-2bf9d7699caa) -->
-<br><br><br>
+
 <div align="center">
 <img  width="753" alt="Screenshot 2025-05-09 at 1 05 39 PM" src="https://github.com/user-attachments/assets/f718bf84-8998-4fa3-a1a3-fcebd95eac40" />  
 </div>
