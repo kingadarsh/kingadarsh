@@ -143,8 +143,8 @@ Open to collaborations, internships, and interesting tech discussions!
 <br><br><br>
 
 <h1></h1>
-<div align="center">
-<img  height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFlZWQxZGJoZ3ByaTJyNXAzbWh2ZWE0cXdibDRidW40YzExcGs1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6yyIrL4JczqfmFRHCl/giphy.gif"  />
+<div align="center" >
+<img  height="500" widht="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/141414310/473467557-cc7a058f-72da-4efe-98b4-c2b0137b1fb7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250801T132316Z&X-Amz-Expires=300&X-Amz-Signature=bfeccecf5a84089af193d20e67c9b12c91f3439b80d5336b705ca9484cc2c65e&X-Amz-SignedHeaders=host"  />
 </div>
 <!-- <br><br><br> -->
 
