@@ -57,7 +57,8 @@ Open to collaborations, internships, and interesting tech discussions!
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/adarsh-kathriya-555750274/?originalSubdomain=in)**
 
-- 📄 Know about my experiences **[My Resume]([https://drive.google.com/file/d/10xgLOZLQMZ4B1WXJ7J6z8Gkqho4-jVnd/view?usp=drive_link](https://drive.google.com/file/d/1Qrtxry9yMnDXMuVY8_lpYu5NCNYcL5Vo/view?usp=drive_link))**
+📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1Qrtxry9yMnDXMuVY8_lpYu5NCNYcL5Vo/view?usp=drive_link)**
+
 <br><br><br>
 
 <h1 align="center">Connect with me:</h1>
